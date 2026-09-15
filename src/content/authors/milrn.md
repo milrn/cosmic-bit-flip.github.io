@@ -1,7 +1,7 @@
 ---
 name: 'milrn'
 pronouns: 'he/him'
-avatar: 'https://github.com/user-attachments/assets/c6fe2369-19a5-46ec-a520-e6a67f3fdaab'
+avatar: 'https://github.com/user-attachments/assets/028a5556-6a29-4622-bbb5-c98b259e3a75'
 category: ['web', 'pwn']
 bio: 'reward hacking 🫠'
 github: 'https://github.com/milrn'
